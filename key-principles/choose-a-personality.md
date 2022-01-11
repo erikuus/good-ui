@@ -2,29 +2,29 @@
 
 ## Font and border radius
 
-Elegant — FreighText; No border radius
+**Elegant** — FreighText; no border radius
 
 
-Playful — ProximaSoft; Large border radius
+**Playful** — ProximaSoft; large border radius
 
 
-Neutral — FreightSans; Medium border radius
+**Neutral** — FreightSans; medium border radius
 
 
 ## Color
 
-Blue — safe
+**Blue** — safe
 
 
-Gold — sofisticated
+**Gold** — sofisticated
 
 
-Fun — Pink
+**Fun** — Pink
 
 
 ## Language
 
-Official
+**Official**
 
 
-Frendlier
+**Frendlier**
