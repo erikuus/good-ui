@@ -2,29 +2,44 @@
 
 ## Font and border radius
 
-**Elegant** — FreighText; no border radius
+### **Elegant**&#x20;
 
+FreighText; no border radius
 
-**Playful** — ProximaSoft; large border radius
+![](../.gitbook/assets/elegant.png)
 
+### **Playful**&#x20;
 
-**Neutral** — FreightSans; medium border radius
+ProximaSoft; large border radius
 
+![](../.gitbook/assets/playful.png)
+
+### **Neutral**
+
+FreightSans; medium border radius
+
+![](../.gitbook/assets/neutral.png)
 
 ## Color
 
-**Blue** — safe
+### **Blue is safe**
 
+![](../.gitbook/assets/blue.png)
 
-**Gold** — sofisticated
+### **Gold is sofisticated**
 
+![](../.gitbook/assets/gold.png)
 
-**Fun** — Pink
+### **Pink is fun**
 
+![](../.gitbook/assets/pink.png)
 
 ## Language
 
-**Official**
+### **Official**
 
+![](../.gitbook/assets/official.png)
 
-**Frendlier**
+### **Frendlier**
+
+![](../.gitbook/assets/friendly.png)
