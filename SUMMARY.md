@@ -6,9 +6,9 @@
 ## The key principles <a id="key-principles"></a>
 
 * [Choose a personality](key-principles/choose-a-personality.md)
-* [Systematize everything](key-principles/systematize_everything.md)
+* [Systematize everything](key-principles/systematize-everything.md)
 * [Design by elimination](key-principles/design-by-elimination.md) 
-* [Use a visual hierarchy](key-principles/use-a-visual_hierarchy.md)
+* [Use a visual hierarchy](key-principles/use-a-visual-hierarchy.md)
 * [Balance weight and contrast](key-principles/balance-weight-and-contrast.md) 
 * [Avoid labels when possible](key-principles/avoid-labels-when-possible.md) 
 * [Start with too much white space](key-principles/start-with-too-much-white-space.md) 
