@@ -1,5 +1,9 @@
 # Balance weight and contrast
 
-## Use contrast to compensate for weight
+## Contrast for weight
 
-## Use weight to compensate for contrast
+Use contrast to compensate for weight
+
+## Weight for contrast
+
+Use weight to compensate for contrast
