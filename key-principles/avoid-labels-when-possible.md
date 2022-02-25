@@ -1,6 +1,6 @@
 # Avoid labels when possible
 
-## Avoid labels for self-evident data
+## Self-evident data
 
 In a lot of situations, you can tell what a piece of data is just by looking at the format.
 
@@ -12,7 +12,7 @@ Even when a piece of data isn’t completely clear without a label, you can ofte
 
 De-emphasize the label by making it smaller, reducing the contrast, using a lighter font weight, or some combination of all three.
 
-## Exception: use labels on information-dense pages
+## Exceptions
 
 Labeling is good on information-dense pages, like the technical specifications of a product. If a user is trying to find out the dimensions of a smartphone, they’re
 probably scanning the page for words like “depth”, not “7.6mm”.
