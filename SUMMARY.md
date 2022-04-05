@@ -7,33 +7,45 @@
 
 * [Choose a personality](key-principles/choose-a-personality.md)
 * [Systematize everything](key-principles/systematize-everything.md)
-* [Design by elimination](key-principles/design-by-elimination.md) 
-* [Use a visual hierarchy](key-principles/use-a-visual-hierarchy.md)
-* [Balance weight and contrast](key-principles/balance-weight-and-contrast.md) 
-* [Avoid labels when possible](key-principles/avoid-labels-when-possible.md) 
+* [Design by elimination](key-principles/design-by-elimination.md)
 * [Start with too much white space](key-principles/start-with-too-much-white-space.md) 
-* [Don't fill the whole screen](key-principles/dont-fill-the-whole-screen.md)
 * [Think mobile first](key-principles/think-mobile-first.md)
 * [Think in columns](key-principles/think-in-columns.md)
-* [Use a fixed width](key-principles/use-a-fixed-width.md)
-* [Scale disproportionately](key-principles/scale-disproportionately.md)
-* [Avoid ambiguous spacing](key-principles/avoid-ambiguous-spacing.md)
-* [Use good fonts](key-principles/use-good-fonts.md)
-* [Keep your line length in check](key-principles/keep-your-line-length-in-check.md)
-* [Contextualize line-height](key-principles/contextualize-line-height.md)
-* [Emphasize links in a subtle way](key-principles/emphasize-links-in-a-subtle-way.md)
-* [Don’t center long form text](key-principles/dont-center-long-form-text.md.md)
-* [Use letter-spacing effectively](key-principles/use-letter-spacing-effectively.md) 
-* [Make accessible beautiful](key-principles/make-accessible-beautiful.md) 
-* [Combine two shadows](key-principles/combine-two-shadows.md) 
-* [Overlap elements to create layers](key-principles/overlap-elements-to-create-layers.md)
-* [Make text stand out on image background](key-principles/make-text-stand-out-on-image-background.md)
-* [Don’t scale icons and screenshots](key-principles/dont-scale-icons-and-screenshots.md)
-* [Beware user-uploaded content](key-principles/beware-user-uploaded-content.md)
-* [Supercharge the defaults](key-principles/supercharge-the-defaults.md)
-* [Add color with accent borders](key-principles/add-color-with-accent-borders.md) 
-* [Decorate your backgrounds](key-principles/decorate-your-backgrounds.md)
-* [Don’t overlook empty states](key-principles/dont-overlook-empty-states.md)
-* [Use fewer borders](key-principles/use-fewer-borders.md)
 * [Think outside the box](key-principles/think-outside-the-box.md)
-* [Look for decisions you wouldn’t have made](key-principles/look-for-decisions-you-wouldnt-have-made.md)
+
+## To do <a id="to-do"></a>
+
+* [Use a visual hierarchy](to-do/use-a-visual-hierarchy.md)
+* [Use a fixed width](to-do/use-a-fixed-width.md)
+* [Use letter-spacing effectively](to-do/use-letter-spacing-effectively.md) 
+* [Use good fonts](to-do/use-good-fonts.md)
+* [Contextualize line-height](to-do/contextualize-line-height.md)
+* [Balance weight and contrast](to-do/balance-weight-and-contrast.md)
+* [Scale disproportionately](to-do/scale-disproportionately.md)
+* [Make accessible beautiful](to-do/make-accessible-beautiful.md)
+* [Supercharge the defaults](to-do/supercharge-the-defaults.md)
+
+## Not to do <a id="not-to-do"></a>
+
+* [Avoid labels when possible](not-to-do/avoid-labels-when-possible.md)
+* [Avoid ambiguous spacing](not-to-do/avoid-ambiguous-spacing.md)
+* [Avoid too many borders](not-to-do/avoid-too-many-borders.md)
+* [Avoid too long lines](not-to-do/keep-your-line-length-in-check.md)
+* [Don't fill the whole screen](not-to-do/dont-fill-the-whole-screen.md)
+* [Don’t center long form text](not-to-do/dont-center-long-form-text.md.md)
+* [Don’t scale icons and screenshots](not-to-do/dont-scale-icons-and-screenshots.md)
+
+## Tips and Tricks <a id="tips-and-tricks"></a>
+
+* [Combine two shadows](tips-and-tricks/combine-two-shadows.md)
+* [Emphasize links in a subtle way](tips-and-tricks/emphasize-links-in-a-subtle-way.md)
+* [Add color with accent borders](tips-and-tricks/add-color-with-accent-borders.md) 
+* [Overlap elements to create layers](tips-and-tricks/overlap-elements-to-create-layers.md)
+* [Make text stand out on image background](tips-and-tricks/make-text-stand-out-on-image-background.md)
+* [Decorate your backgrounds](tips-and-tricks/decorate-your-backgrounds.md)
+* [Look for decisions you wouldn’t have made](tips-and-tricks/look-for-decisions-you-wouldnt-have-made.md)
+
+## Beware <a id="beware"></a>
+
+* [Beware user-uploaded content](beware/beware-user-uploaded-content.md)
+* [Beware empty states](beware/beware-empty-states.md)

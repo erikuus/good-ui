@@ -1,4 +1,4 @@
-# Keep your line length in check
+# Avoid too long lines
 
 ## 45-75 characters per line
 

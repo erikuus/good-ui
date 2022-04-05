@@ -1,3 +1,3 @@
-# Use fewer borders
+# Avoid too many borders
 
 Use shadow, background and margin instead of border.
