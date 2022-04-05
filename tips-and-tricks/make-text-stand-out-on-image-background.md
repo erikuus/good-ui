@@ -1,4 +1,4 @@
-# Make text stand out on image background
+# Make text stand out on image
 
 ## Add an overlay
 

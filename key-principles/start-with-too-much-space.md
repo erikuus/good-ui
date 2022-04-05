@@ -1,4 +1,4 @@
-## Start with too much white space
+## Start with too much space
 
 Start by giving something way too much space, then remove it until it you’re happy with the result.
 

@@ -8,12 +8,12 @@
 * [Choose a personality](key-principles/choose-a-personality.md)
 * [Systematize everything](key-principles/systematize-everything.md)
 * [Design by elimination](key-principles/design-by-elimination.md)
-* [Start with too much white space](key-principles/start-with-too-much-white-space.md) 
+* [Start with too much space](key-principles/start-with-too-much-space.md) 
 * [Think mobile first](key-principles/think-mobile-first.md)
 * [Think in columns](key-principles/think-in-columns.md)
 * [Think outside the box](key-principles/think-outside-the-box.md)
 
-## To do <a id="to-do"></a>
+## To do list <a id="to-do"></a>
 
 * [Use a visual hierarchy](to-do/use-a-visual-hierarchy.md)
 * [Use a fixed width](to-do/use-a-fixed-width.md)
@@ -25,7 +25,7 @@
 * [Make accessible beautiful](to-do/make-accessible-beautiful.md)
 * [Supercharge the defaults](to-do/supercharge-the-defaults.md)
 
-## Not to do <a id="not-to-do"></a>
+## Not to do list <a id="not-to-do"></a>
 
 * [Avoid labels when possible](not-to-do/avoid-labels-when-possible.md)
 * [Avoid ambiguous spacing](not-to-do/avoid-ambiguous-spacing.md)
@@ -41,7 +41,7 @@
 * [Emphasize links in a subtle way](tips-and-tricks/emphasize-links-in-a-subtle-way.md)
 * [Add color with accent borders](tips-and-tricks/add-color-with-accent-borders.md) 
 * [Overlap elements to create layers](tips-and-tricks/overlap-elements-to-create-layers.md)
-* [Make text stand out on image background](tips-and-tricks/make-text-stand-out-on-image-background.md)
+* [Make text stand out on image](tips-and-tricks/make-text-stand-out-on-image-background.md)
 * [Decorate your backgrounds](tips-and-tricks/decorate-your-backgrounds.md)
 * [Look for decisions you wouldn’t have made](tips-and-tricks/look-for-decisions-you-wouldnt-have-made.md)
 
