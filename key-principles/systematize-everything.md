@@ -1,6 +1,10 @@
-# Systematize everything 
+---
+description: >-
+  Instead of hand-picking values from a limitless pool any time you need to make
+  a decision, start with a smaller set of options.
+---
 
-Instead of hand-picking values from a limitless pool any time you need to make a decision, start with a smaller set of options. 
+# Systematize everything
 
 ## Colors
 
@@ -8,46 +12,51 @@ Instead of hand-picking values from a limitless pool any time you need to make a
 
 Most sites need one, maybe two colors that are used for primary actions, active navigation elements, etc.
 
+![](../.gitbook/assets/primary-colors.png)
 
+**Accent colors**
 
-**Accent colors** 
+On top of primary colors, every site needs a few accent colors for communicating different things to the user.
 
-On top of primary colors, every site needs a few accent colors for communicating different things to the user. 
+![](../.gitbook/assets/accent3-colors.png)
 
+![](../.gitbook/assets/accent2-colors.png)
 
+![](../.gitbook/assets/accent1-colors.png)
 
-**Greys** 
+**Greys**
 
-Text, backgrounds, panels, form controls. 
+Text, backgrounds, panels, form controls.
 
-
+![](../.gitbook/assets/neutral-colors.png)
 
 ## Shadows
 
 **Small**
 
-You might use a smaller shadow for something like a button. 
+You might use a smaller shadow for something like a button.
 
- 
+![](../.gitbook/assets/shadow-small.png)
 
 **Medium**
 
-Medium shadows are useful for things like dropdowns. 
+Medium shadows are useful for things like dropdowns.
 
-
-
+![](../.gitbook/assets/shadow-medium.png)
 
 **Large**
 
-Large shadows are great for modal dialogs. 
+Large shadows are great for modal dialogs.
 
-
+![](../.gitbook/assets/shadow-large.png)
 
 ## Sizes
 
 You shouldn’t be nitpicking between 1px difference when trying to decide on the perfect size for an element or a space between elements.
 
+![](../.gitbook/assets/spacing-nosys.png)
 
+![](../.gitbook/assets/spacing-sys.png)
 
 ## Presets
 

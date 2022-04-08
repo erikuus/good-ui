@@ -4,6 +4,8 @@ In this gitbook, you will find two types of screenshots that distinguish between
 
 Bad practices appear like this.
 
+![](.gitbook/assets/bad.png)
 
 Good practices are marked with a green checkmark or not marked at all.
 
+![](.gitbook/assets/good.png)

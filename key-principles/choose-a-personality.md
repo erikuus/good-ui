@@ -1,3 +1,9 @@
+---
+description: >-
+  When you start the design for a new app, first choose a personality that is
+  determined by a few concrete factors: font, border radius, color and language.
+---
+
 # Choose a personality
 
 ## Font and border radius
