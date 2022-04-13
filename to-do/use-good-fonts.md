@@ -1,9 +1,13 @@
 # Use good fonts
 
-## Ignore typefaces with less than five weights
+## Use fonts with many weights
 
-## Trust the wisdom of the crowd
+![](../.gitbook/assets/good-font-many-styles.png)
 
-## Steal from people who care
+## Trust a popularity
 
-## Avoid using condensed typefaces with short x-heights for your main UI text
+![](../.gitbook/assets/good-font-popularity.png)
+
+## Steal from web
+
+![](../.gitbook/assets/good-font-steal.png)

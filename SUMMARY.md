@@ -13,7 +13,7 @@
 * [Think in columns](key-principles/think-in-columns.md)
 * [Think outside the box](key-principles/think-outside-the-box.md)
 
-## To do list <a href="#to-do" id="to-do"></a>
+## To do
 
 * [Use a visual hierarchy](to-do/use-a-visual-hierarchy.md)
 * [Use a fixed width](to-do/use-a-fixed-width.md)
@@ -25,7 +25,7 @@
 * [Make accessible beautiful](to-do/make-accessible-beautiful.md)
 * [Supercharge the defaults](to-do/supercharge-the-defaults.md)
 
-## Not to do list <a href="#not-to-do" id="not-to-do"></a>
+## Not to do
 
 * [Avoid labels when possible](not-to-do/avoid-labels-when-possible.md)
 * [Avoid ambiguous spacing](not-to-do/avoid-ambiguous-spacing.md)

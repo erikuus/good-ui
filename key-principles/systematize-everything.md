@@ -36,13 +36,13 @@ Text, backgrounds, panels, form controls.
 
 You might use a smaller shadow for something like a button.
 
-![](../.gitbook/assets/shadow-small.png)
+![](<../.gitbook/assets/shadow-small (1).png>)
 
 **Medium**
 
 Medium shadows are useful for things like dropdowns.
 
-![](../.gitbook/assets/shadow-medium.png)
+![](<../.gitbook/assets/shadow-medium (1).png>)
 
 **Large**
 
