@@ -1,15 +1,19 @@
-# Decorate your backgrounds
+# Decorate background
 
-## Sections
+## Distinguish sections
 
-Add some distinction between entire page sections.
+![](../.gitbook/assets/decorate-background-color.png)
 
-## Gradient
+## Use a gradient
 
-For best results, use two hues that are no more than about 30° apart.
+![](../.gitbook/assets/decorate-background-gradient.png)
 
-## Repeate pattern
+## Repeat a pattern
 
-http://www.heropatterns.com/
+![](../.gitbook/assets/decorate-background-pattern.png)
+
+{% embed url="http://www.heropatterns.com" %}
 
 ## Add an illustration
+
+![](../.gitbook/assets/decorate-background-illustration.png)
