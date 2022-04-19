@@ -8,12 +8,10 @@
 
 ![](../.gitbook/assets/decorate-background-gradient.png)
 
-## Repeat a pattern
-
-![](../.gitbook/assets/decorate-background-pattern.png)
-
-{% embed url="http://www.heropatterns.com" %}
-
 ## Add an illustration
 
 ![](../.gitbook/assets/decorate-background-illustration.png)
+
+## Repeat a pattern
+
+![](../.gitbook/assets/decorate-background-pattern.png)

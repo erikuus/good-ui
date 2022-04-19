@@ -27,3 +27,11 @@ If a destructive action isn’t the primary action on the page, it might be bett
 Combine this with a confirmation step where the destructive action actually is the primary action, and apply the big, red, bold styling there.
 
 ![](../.gitbook/assets/button-pyramid-good2.png)
+
+# Emphasize links in a subtle way
+
+Not every link needs a color. They’ll still be discoverable, but won’t compete for attention with more important actions on the page.
+
+![](../.gitbook/assets/emphasize-links-bad.png)
+
+![](../.gitbook/assets/emphasize-links-good.png)

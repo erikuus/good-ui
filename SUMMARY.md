@@ -38,7 +38,6 @@
 ## Tips and Tricks
 
 * [Combine shadows](tips-and-tricks/combine-two-shadows.md)
-* [Emphasize links in a subtle way](tips-and-tricks/emphasize-links-in-a-subtle-way.md)
 * [Add accent borders](tips-and-tricks/add-color-with-accent-borders.md)
 * [Overlap elements](tips-and-tricks/overlap-elements-to-create-layers.md)
 * [Make text stand out](tips-and-tricks/make-text-stand-out-on-image-background.md)
