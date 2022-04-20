@@ -1,6 +1,6 @@
 # Look for fresh ideas
 
-## Inverted background color on a datepicker
+## Dark background on a datepicker
 
 ![](../.gitbook/assets/idea-dark-calendar.png)
 
@@ -12,7 +12,7 @@
 
 ![](../.gitbook/assets/idea-two-color-headlines.png)
 
-## Recreate that design from scratch
+## Recreate design from scratch
 
 The absolute best way to notice the little details that make a design look really polished is to recreate that design from scratch, without peeking at the developer tools.
 

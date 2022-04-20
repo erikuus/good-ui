@@ -14,7 +14,7 @@
 
 ![](../.gitbook/assets/text-background-contrast.png)
 
-## Multiply with a solid color
+## Multiply with a color
 
 ![](../.gitbook/assets/text-background-multiply.png)
 

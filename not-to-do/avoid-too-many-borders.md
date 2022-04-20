@@ -2,6 +2,4 @@
 
 Use shadow, background and margin instead of border.
 
-![](../.gitbook/assets/avoid-borders-bad.png)
-
-![](../.gitbook/assets/avoid-borders-good.png)
+![](../.gitbook/assets/avoid-borders-bad.png) ![](../.gitbook/assets/avoid-borders-good.png)

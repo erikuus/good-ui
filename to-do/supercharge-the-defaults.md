@@ -1,6 +1,6 @@
 # Supercharge the defaults
 
-## Custom bullets
+## Bullets
 
 ![](../.gitbook/assets/default-bullets1.png)
 
@@ -10,10 +10,6 @@
 
 ![](../.gitbook/assets/default-quotes.png)
 
-## Links
-
-![](../.gitbook/assets/default-links.png)
-
-## Forms
+## Selections
 
 ![](../.gitbook/assets/default-forms.png)

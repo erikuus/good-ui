@@ -28,7 +28,7 @@ Combine this with a confirmation step where the destructive action actually is t
 
 ![](../.gitbook/assets/button-pyramid-good2.png)
 
-# Emphasize links in a subtle way
+## Emphasize links in a subtle way
 
 Not every link needs a color. They’ll still be discoverable, but won’t compete for attention with more important actions on the page.
 

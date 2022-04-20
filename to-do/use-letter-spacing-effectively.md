@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/letter-space-tight-font.png)
 
-## Or tighten headlines with letter spacing
+## Or tighten with letter spacing
 
 ![](../.gitbook/assets/letter-space-tighten-font.png)
 

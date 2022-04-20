@@ -12,7 +12,7 @@ It could overlap on both sides.
 
 ![](../.gitbook/assets/overlap-elements-both-sides.png)
 
-## Smaller components
+## Components
 
 Overlapping elements can add depth to smaller components too.
 

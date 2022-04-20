@@ -1,10 +1,20 @@
+---
+description: >-
+  It makes sense to give some elements a fixed width that’s optimized for its
+  contents.
+---
+
 # Use a fixed width
 
-It makes sense to give some elements a fixed width that’s optimized for its contents.
+## Sidebar
 
 ![](../.gitbook/assets/fixed-width-menu.png)
 
+## Image
+
 ![](../.gitbook/assets/fixed-width-card.png)
+
+## Form
 
 ![](../.gitbook/assets/fixed-width-form.png)
 

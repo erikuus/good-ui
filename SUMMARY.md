@@ -18,7 +18,6 @@
 * [Use a visual hierarchy](to-do/use-a-visual-hierarchy.md)
 * [Use a fixed width](to-do/use-a-fixed-width.md)
 * [Use letter-spacing effectively](to-do/use-letter-spacing-effectively.md)
-* [Use good fonts](to-do/use-good-fonts.md)
 * [Contextualize line-height](to-do/contextualize-line-height.md)
 * [Balance weight and contrast](to-do/balance-weight-and-contrast.md)
 * [Scale disproportionately](to-do/scale-disproportionately.md)

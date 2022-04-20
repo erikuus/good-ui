@@ -8,13 +8,13 @@ description: >-
 
 ## Colors
 
-**Primary colors**
+### **Primary colors**
 
 Most sites need one, maybe two colors that are used for primary actions, active navigation elements, etc.
 
 ![](../.gitbook/assets/primary-colors.png)
 
-**Accent colors**
+### **Accent colors**
 
 On top of primary colors, every site needs a few accent colors for communicating different things to the user.
 
@@ -24,7 +24,7 @@ On top of primary colors, every site needs a few accent colors for communicating
 
 ![](../.gitbook/assets/accent1-colors.png)
 
-**Greys**
+### **Greys**
 
 Text, backgrounds, panels, form controls.
 
@@ -32,27 +32,27 @@ Text, backgrounds, panels, form controls.
 
 ## Shadows
 
-**Small**
+### **Small**
 
 You might use a smaller shadow for something like a button.
 
-![](<../.gitbook/assets/shadow-small (1).png>)
+![](../.gitbook/assets/shadow-small.png)
 
-**Medium**
+### **Medium**
 
 Medium shadows are useful for things like dropdowns.
 
-![](<../.gitbook/assets/shadow-medium (1).png>)
+![](../.gitbook/assets/shadow-medium.png)
 
-**Large**
+### **Large**
 
 Large shadows are great for modal dialogs.
 
-![](../.gitbook/assets/shadow-large.png)
+![](<../.gitbook/assets/shadow-large (1).png>)
 
 ## Sizes
 
-You shouldn’t be nitpicking between 1px difference when trying to decide on the perfect size for an element or a space between elements.
+You shouldn’t be nitpicking between 1px difference when trying to decide on the perfect size for an element or a space between elements. Predifine set of sizes to pick from.
 
 ![](../.gitbook/assets/spacing-nosys.png)
 

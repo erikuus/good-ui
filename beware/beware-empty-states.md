@@ -10,6 +10,6 @@ If you’re designing something that depends on user-generated content, the empt
 
 ## Hide tabs and filters
 
-If you’re working on something that has a bunch of supporting UI like tabs or filters, consider hiding that stuff entirely. There’s no point in presenting a bunch of actions that don’t do anything until the user has created some content.
+There’s no point in presenting a bunch of UI like tabs or filters that don’t do anything until the user has created some content.
 
 ![](../.gitbook/assets/empty-states-clean.png)
