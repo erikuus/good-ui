@@ -1,6 +1,6 @@
 # Start with too much space
 
-Start by giving something way too much space, then remove it until it you’re happy with the result.
+Start by giving something way too much space, then remove it until you’re happy with the result.
 
 ![](../.gitbook/assets/start-with-too-much-space.png)
 

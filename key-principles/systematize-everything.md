@@ -52,7 +52,7 @@ Large shadows are great for modal dialogs.
 
 ## Sizes
 
-You shouldn’t be nitpicking between 1px difference when trying to decide on the perfect size for an element or a space between elements. Predifine set of sizes to pick from.
+You shouldn’t be nitpicking between 1px difference when trying to decide on the perfect size for an element or a space between elements. Predefine set of sizes to pick from.
 
 ![](../.gitbook/assets/spacing-nosys.png)
 

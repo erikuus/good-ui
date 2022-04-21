@@ -1,6 +1,6 @@
 # Don’t scale icons/screenshots
 
-## Don’t scale up icons.
+## Don’t scale up icons
 
 Use icons drawn for large size or enclose small icons inside some shape.
 
@@ -8,9 +8,9 @@ Use icons drawn for large size or enclose small icons inside some shape.
 
 ![](../.gitbook/assets/dont-scale-icons3.png)
 
-## Don’t scale down screenshots.
+## Don’t scale down screenshots
 
-Use specific area, simplified illustation or smaller device layout.
+Use specific area, simplified illustration or smaller device layout.
 
 ![](../.gitbook/assets/dont-scale-screenshot-bad.png)
 
